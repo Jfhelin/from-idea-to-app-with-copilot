@@ -1,83 +1,58 @@
 # From Idea to App with Copilot
 
-Welcome 👋
+Welcome! You are about to go from a simple idea to a working application — using GitHub Copilot as your assistant.
 
-In this workshop, you will go from a simple idea to a working application — using GitHub Copilot.
-
-You do **not** need to know how to code.
+**No coding experience required. No setup. No prior knowledge needed.**
 
 ---
 
 ## What This Workshop Is About
 
-This session is designed to show how modern AI tools can help you:
+This is a hands-on session. In about 45–60 minutes, you will:
 
-- Turn an idea into something concrete
-- Build a simple application in minutes
-- Improve and refine results through iteration
-- Understand what is possible with GitHub Copilot
+- See how an idea becomes a working app in minutes
+- Build your own app using Copilot
+- Improve it step by step using plain language
 
-You will not be writing code manually.  
-Your role is to **describe what you want, review the result, and guide the outcome**.
+That is it. You are not here to learn software development. You are here to see how quickly a working application can come to life when you describe what you want clearly.
 
----
-
-## What You Will Do
-
-During this workshop, you will:
-
-1. **Start with an idea**  
-   Choose a simple use case (for example: a dashboard, tracker, or internal tool)
-
-2. **Describe what you want**  
-   Use Copilot to turn your idea into a structured plan
-
-3. **Create a working app**  
-   Let Copilot generate the application for you
-
-4. **Improve the result**  
-   Refine the app by giving feedback and making small adjustments
-
-At the end, you will have a working application you can open and explore.
+👉 You will have something working within the first 10 minutes.
 
 ---
 
-## What You Do *Not* Need
+## The Three Steps
 
-- No coding experience
-- No setup or configuration
-- No knowledge of Git or development tools
+This workshop follows a simple flow:
 
-Everything you need is already prepared.
+| Step | Name | What You Do |
+|------|------|-------------|
+| [Step 1](STEP-1-SEE-IT.md) | See It | Watch a live demo so you know what good looks like |
+| [Step 2](STEP-2-TRY-IT.md) | Try It | Choose an app idea and ask Copilot to build it |
+| [Step 3](STEP-3-REFINE-IT.md) | Refine It | Improve the app by describing small changes |
 
----
+The whole approach follows one pattern throughout:
 
-## How to Work in This Workshop
-
-This is not about getting everything perfect on the first try.
-
-The workflow is simple:
-
-> Describe → Review → Improve
-
-- Be clear about what you want
-- Look at what Copilot produces
-- Ask for changes until it feels right
+> **Describe → Review → Improve**
 
 ---
 
-## Goal of the Session
+## You Do Not Need Any of the Following
 
-The goal is not to build a perfect app.
+- Coding experience
+- Knowledge of files, folders, or command lines
+- An understanding of how software is built
+- The ability to read or write code
 
-The goal is to understand:
-
-👉 **How quickly ideas can become real with Copilot**
+Your one job in this workshop is to describe what you want, look at what comes back, and ask for improvements. Copilot handles the rest.
 
 ---
 
-## Ready?
+## What You Will Have at the End
 
-Move to the first step and follow the instructions from your facilitator.
+A working application that runs in a browser tab — built entirely through conversation, in under an hour.
 
-Let’s build something 🚀
+---
+
+## Ready to Begin?
+
+Open [Step 1 — See It](STEP-1-SEE-IT.md) and follow along with your facilitator.
